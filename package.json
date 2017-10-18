@@ -1,0 +1,22 @@
+{
+  "name": "im-hear",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	  "start": "browser-sync start --directory --server --files \"*.css, *.html, *.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayduck/im-hear.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayduck/im-hear/issues"
+  },
+  "homepage": "https://github.com/rayduck/im-hear#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13"
+  }
+}
